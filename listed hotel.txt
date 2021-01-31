@@ -1,0 +1,484 @@
+<div class="HotelCardstyles__OuterWrapperDiv-sc-1s80tyk-0 iTOfCj" itemscope="" itemtype="http://schema.org/Hotel">
+ <div class="HotelCardstyles__WrapperSectionMetaDiv-sc-1s80tyk-2 iytEUf">
+  <div class="HotelCardstyles__ImageGalleryWrapperDiv-sc-1s80tyk-1 jbdWXK">
+   <div class="FreeBreakfastTag__WrapperDiv-sc-1t1x6un-0 gvsNnT">
+    <div class="FreeBreakfastTag__TagMarkup-sc-1t1x6un-2 cPIlGc">
+    </div>
+    <span class="FreeBreakfastTag__TextWrapperSpan-sc-1t1x6un-1 iXgAwc">
+     Free Breakfast
+    </span>
+   </div>
+   <meta content="https://cdn1.goibibo.com/voy_ing/t_g/820f5dd2731411e7a0c70a4cef95d023.jpg" itemprop="image"/>
+   <img alt="" class="HotelCardImageGallerystyles__ImageStyle-r3dzqu-1 eOEPUH" data-testid="" itemprop="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   <ul class="HotelCardImageGallerystyles__ImageList-r3dzqu-4 nXBQD">
+    <li>
+     <div class="Layouts__Column-sc-1yzlivq-1 HotelCardImageGallerystyles__GoStaysIconWrapperForImageListDiv-r3dzqu-7 eqevTR kHEwwu">
+      <span class="HotelCardImageGallerystyles__GoStaysIconWrapperForImageListSpan-r3dzqu-8 bhmIUQ">
+       <svg class="GoStaysIcon-sc-6ymekq-0 ctSwpQ" fill="#FF6D38" height="3.2rem" viewbox="0 0 32 32" width="3.2rem" xmlns="http://www.w3.org/2000/svg">
+        <path d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16zm-16.657-2.645V6.041h-2.537v.96h-.032c-.498-.774-1.247-1.161-2.248-1.161-1.119 0-2.02.411-2.705 1.234s-1.027 1.933-1.027 3.331c0 1.247.308 2.242.923 2.984s1.448 1.113 2.497 1.113c1.129 0 1.983-.462 2.561-1.387h.032v.653c0 .779-.236 1.396-.706 1.851s-1.135.681-1.991.681c-.862 0-1.715-.247-2.561-.742v2.145c.647.317 1.525.476 2.633.476 1.675 0 2.954-.421 3.837-1.262s1.325-2.028 1.325-3.561zm5.17 1.145c1.392 0 2.487-.398 3.287-1.194s1.2-1.879 1.2-3.25c0-1.269-.388-2.289-1.164-3.061s-1.846-1.157-3.211-1.157c-1.386 0-2.486.386-3.299 1.157s-1.22 1.84-1.22 3.206c0 1.322.392 2.37 1.176 3.141s1.861 1.157 3.231 1.157zm4.532 9.95l-18.348.005v-.242h-.241v1.005h.236v-.291h16.01v.69h.278v-.399h.387v.715h.387v-.739h.483v.932h.483v-1.223h.326v-.453zm-18.208-.902c.166.086.363.149.59.193.226.043.466.064.717.064.245 0 .478-.023.698-.07s.413-.124.579-.232c.166-.107.298-.248.395-.422s.145-.387.145-.643c0-.186-.028-.348-.083-.487s-.136-.264-.24-.372c-.104-.108-.229-.206-.375-.292s-.31-.167-.493-.244c-.135-.056-.255-.11-.361-.162s-.197-.105-.272-.16c-.074-.055-.132-.112-.172-.173a.369.369 0 01-.007-.396.45.45 0 01.154-.145c.066-.04.147-.072.243-.094s.202-.034.32-.034a2.167 2.167 0 01.556.079 1.82 1.82 0 01.53.241v-.956c-.155-.06-.325-.104-.51-.133s-.396-.043-.634-.043c-.243 0-.473.026-.69.078s-.408.133-.573.244c-.165.111-.296.252-.391.423s-.144.376-.144.615c0 .305.088.564.264.779s.443.397.8.546c.141.057.272.113.393.169s.226.113.314.172c.088.059.158.125.209.195a.399.399 0 01.028.424.423.423 0 01-.145.147c-.065.041-.146.073-.243.097s-.21.036-.34.036a1.954 1.954 0 01-1.261-.466v1.022zm6.899-3.564v-.84h-3.642v.84h1.3v3.741h1.035v-3.741h1.306zm4.455 3.74l-1.629-4.581h-1.223l-1.668 4.581h1.118l.323-1.019h1.629l.326 1.019h1.124zm-5.352-13.393c0 .667-.162 1.203-.486 1.609s-.748.609-1.272.609c-.53 0-.947-.2-1.252-.601s-.458-.945-.458-1.633c0-.801.161-1.422.482-1.863s.763-.661 1.325-.661c.492 0 .892.184 1.2.552s.462.813.462 1.335v.653zm7.738-2.54c1.225 0 1.838.772 1.838 2.314 0 1.629-.607 2.444-1.822 2.444-1.274 0-1.911-.793-1.911-2.379 0-.758.166-1.344.498-1.758s.797-.621 1.397-.621zm-4.073 14.122v-.001h-1.173l.499-1.552c.043-.133.069-.265.08-.399h.025c.014.16.04.298.077.412l.491 1.54zm5.516-2.77v-.001h-1.093l-.75 1.722a1.591 1.591 0 00-.099.361h-.013a6.096 6.096 0 00-.106-.374l-.738-1.709h-1.179l1.453 2.971v1.61h1.032v-1.629l1.492-2.952zm.116 4.405c.166.086.363.149.589.193a3.758 3.758 0 001.414-.006c.221-.046.414-.124.58-.232s.298-.248.395-.422a1.31 1.31 0 00.145-.643c0-.186-.028-.348-.083-.487s-.134-.264-.239-.372c-.105-.108-.229-.206-.375-.292s-.31-.167-.494-.244c-.134-.056-.254-.11-.361-.162s-.197-.105-.272-.16a.67.67 0 01-.172-.173.361.361 0 01-.061-.206c0-.07.018-.133.055-.19s.087-.105.154-.145a.826.826 0 01.242-.094c.096-.022.202-.034.32-.034a2.152 2.152 0 01.555.079 1.832 1.832 0 01.531.241v-.956c-.155-.06-.325-.104-.51-.133s-.396-.043-.634-.043c-.243 0-.473.026-.69.078-.216.052-.408.133-.573.244s-.295.252-.391.423a1.25 1.25 0 00-.143.615c0 .305.089.564.264.779s.442.397.8.546c.141.057.272.113.393.169s.226.113.315.172a.828.828 0 01.21.195.399.399 0 01.028.424.423.423 0 01-.145.147c-.065.041-.146.073-.243.097s-.21.036-.34.036a1.954 1.954 0 01-1.262-.466v1.022z">
+        </path>
+       </svg>
+      </span>
+     </div>
+    </li>
+    <li>
+     <img alt="" class="HotelCardImageGallerystyles__MiniImageStyle-r3dzqu-2 gJGDNZ" data-testid="" itemprop="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    </li>
+    <li>
+     <img alt="" class="HotelCardImageGallerystyles__MiniImageStyle-r3dzqu-2 gJGDNZ" data-testid="" itemprop="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    </li>
+    <li>
+     <img alt="" class="HotelCardImageGallerystyles__MiniImageStyle-r3dzqu-2 gJGDNZ" data-testid="" itemprop="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    </li>
+    <li>
+     <img alt="" class="HotelCardImageGallerystyles__MiniImageStyle-r3dzqu-2 gJGDNZ" data-testid="" itemprop="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    </li>
+    <div class="HotelCardImageGallerystyles__ViewAllWrapperStyle-r3dzqu-5 jTVZbG">
+     <span class="HotelCardImageGallerystyles__ViewAllTextStyle-r3dzqu-6 jYWscF">
+      View All
+     </span>
+    </div>
+   </ul>
+  </div>
+  <div class="HotelCardstyles__HotelCardInfoWrapperDiv-sc-1s80tyk-6 dfmysf">
+   <div class="HotelCardstyles__HotelInfoWrapperDiv-sc-1s80tyk-7 kULJHg">
+    <div class="HotelCardstyles__HeadingInfoWrapperDiv-sc-1s80tyk-9 jPTpam">
+     <div class="dwebCommonstyles__CenteredSpaceWrap-sc-112ty3f-0 jIrlaB">
+      <div class="dwebCommonstyles__CenteredSpaceWrap-sc-112ty3f-0 jIrlaB">
+       <span class="HotelCardstyles__HotelTypeTag-sc-1s80tyk-10 chqGVL">
+        Hotel
+       </span>
+      </div>
+      <div class="ReviewAndRatingsstyles__ReviewAndRatingOuterContainer-sc-1nxmeoo-2 fRbbKg" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+       <div class="ReviewAndRatingsstyles__HotelTotalReviewWrapper-sc-1nxmeoo-1 uisOI">
+        <div class="ReviewAndRatingsstyles__TotalReviewOuterDiv-sc-1nxmeoo-7 kklPZ">
+         <div class="ReviewAndRatingsstyles__AverageReviewWrapper-sc-1nxmeoo-5 kdvSuS">
+          <span class="ReviewAndRatingsstyles__AverageReviewText-sc-1nxmeoo-8 MUGDq" content="4.2" itemprop="ratingValue">
+           4.2 / 5
+          </span>
+         </div>
+         <span class="ReviewAndRatingsstyles__ReviewTestStyles-sc-1nxmeoo-6 gSPftA">
+         </span>
+        </div>
+        <span class="ReviewAndRatingsstyles__TotalReviewCountText-sc-1nxmeoo-4 dOhZut" content="3059" itemprop="ratingCount">
+         3059 Ratings
+        </span>
+        <div class="ReviewAndRatingsstyles__GuestReviewPopUpWrap-sc-1nxmeoo-0 duiCNq">
+         <div class="dwebCommonstyles__CenteredDivWrap-sc-112ty3f-1 ReviewAndRatingsstyles__GoRatingBlock-sc-1nxmeoo-9 piLsL dYifDd">
+          <p class="ReviewAndRatingsstyles__AvgReviewTextWrapperDiv-sc-1nxmeoo-13 dckylR">
+           <span class="ReviewAndRatingsstyles__AvgReviewTextWrapper-sc-1nxmeoo-14 cAfxuT">
+            4.2
+           </span>
+           <span class="ReviewAndRatingsstyles__TotalReviewTextWrapper-sc-1nxmeoo-15 jFWXa-D">
+            /5
+           </span>
+          </p>
+          <p class="ReviewAndRatingsstyles__ReviewCountTextWrapper-sc-1nxmeoo-11 kfyWAc">
+           1465 Reviews
+          </p>
+          <p class="ReviewAndRatingsstyles__RatingsCountTextWrapper-sc-1nxmeoo-12 jlpYZu">
+           3059 Ratings
+          </p>
+         </div>
+         <div class="ReviewAndRatingsstyles__BreakupWrapperDiv-sc-1nxmeoo-23 bkEkBY">
+          <div class="ReviewAndRatingsstyles__BreakupWrapperContainer-sc-1nxmeoo-25 igdVih">
+           <span class="ReviewAndRatingsstyles__ReviewTypeTextWrapper-sc-1nxmeoo-17 kCIcHV">
+            5
+           </span>
+           <svg class="RatingStarIcon-sc-1lv0lb2-0 ReviewAndRatingsstyles__StarDiv-sc-1nxmeoo-20 jfinCb cQWnMi" height="14" width="15" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-5-5h24v24H-5z">
+             </path>
+             <path d="M7.15 11.622l3.469 2.13c.635.39 1.412-.187 1.245-.917l-.92-4.004 3.068-2.699c.56-.492.259-1.425-.477-1.484L9.5 4.3 7.92.515a.831.831 0 00-1.537 0l-1.58 3.776-4.036.348C.031 4.7-.27 5.632.29 6.124l3.067 2.698-.92 4.005c-.166.73.61 1.307 1.246.916l3.468-2.12z" fill="#FDBA00">
+             </path>
+            </g>
+           </svg>
+           <div class="Layouts__Row-sc-1yzlivq-0 ReviewAndRatingsstyles__ProgressBarWrapperDiv-sc-1nxmeoo-18 lmaLVI clBuBC">
+            <div class="Layouts__Column-sc-1yzlivq-1 ReviewAndRatingsstyles__OverriddenProgressBar-sc-1nxmeoo-24 eqevTR jQZEYa">
+             <span class="ReviewAndRatingsstyles__ProgressLine-sc-1nxmeoo-26 cVChuH" width="7">
+             </span>
+            </div>
+           </div>
+           <span class="ReviewAndRatingsstyles__ProgressBarCountWrapper-sc-1nxmeoo-19 bAfGiD">
+            1221
+           </span>
+          </div>
+          <div class="ReviewAndRatingsstyles__BreakupWrapperContainer-sc-1nxmeoo-25 igdVih">
+           <span class="ReviewAndRatingsstyles__ReviewTypeTextWrapper-sc-1nxmeoo-17 kCIcHV">
+            4
+           </span>
+           <svg class="RatingStarIcon-sc-1lv0lb2-0 ReviewAndRatingsstyles__StarDiv-sc-1nxmeoo-20 jfinCb cQWnMi" height="14" width="15" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-5-5h24v24H-5z">
+             </path>
+             <path d="M7.15 11.622l3.469 2.13c.635.39 1.412-.187 1.245-.917l-.92-4.004 3.068-2.699c.56-.492.259-1.425-.477-1.484L9.5 4.3 7.92.515a.831.831 0 00-1.537 0l-1.58 3.776-4.036.348C.031 4.7-.27 5.632.29 6.124l3.067 2.698-.92 4.005c-.166.73.61 1.307 1.246.916l3.468-2.12z" fill="#FDBA00">
+             </path>
+            </g>
+           </svg>
+           <div class="Layouts__Row-sc-1yzlivq-0 ReviewAndRatingsstyles__ProgressBarWrapperDiv-sc-1nxmeoo-18 lmaLVI clBuBC">
+            <div class="Layouts__Column-sc-1yzlivq-1 ReviewAndRatingsstyles__OverriddenProgressBar-sc-1nxmeoo-24 eqevTR jQZEYa">
+             <span class="ReviewAndRatingsstyles__ProgressLine-sc-1nxmeoo-26 jHUKYa" width="7">
+             </span>
+            </div>
+           </div>
+           <span class="ReviewAndRatingsstyles__ProgressBarCountWrapper-sc-1nxmeoo-19 bAfGiD">
+            1071
+           </span>
+          </div>
+          <div class="ReviewAndRatingsstyles__BreakupWrapperContainer-sc-1nxmeoo-25 igdVih">
+           <span class="ReviewAndRatingsstyles__ReviewTypeTextWrapper-sc-1nxmeoo-17 kCIcHV">
+            3
+           </span>
+           <svg class="RatingStarIcon-sc-1lv0lb2-0 ReviewAndRatingsstyles__StarDiv-sc-1nxmeoo-20 jfinCb cQWnMi" height="14" width="15" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-5-5h24v24H-5z">
+             </path>
+             <path d="M7.15 11.622l3.469 2.13c.635.39 1.412-.187 1.245-.917l-.92-4.004 3.068-2.699c.56-.492.259-1.425-.477-1.484L9.5 4.3 7.92.515a.831.831 0 00-1.537 0l-1.58 3.776-4.036.348C.031 4.7-.27 5.632.29 6.124l3.067 2.698-.92 4.005c-.166.73.61 1.307 1.246.916l3.468-2.12z" fill="#FDBA00">
+             </path>
+            </g>
+           </svg>
+           <div class="Layouts__Row-sc-1yzlivq-0 ReviewAndRatingsstyles__ProgressBarWrapperDiv-sc-1nxmeoo-18 lmaLVI clBuBC">
+            <div class="Layouts__Column-sc-1yzlivq-1 ReviewAndRatingsstyles__OverriddenProgressBar-sc-1nxmeoo-24 eqevTR jQZEYa">
+             <span class="ReviewAndRatingsstyles__ProgressLine-sc-1nxmeoo-26 dCjyln" width="6.84">
+             </span>
+            </div>
+           </div>
+           <span class="ReviewAndRatingsstyles__ProgressBarCountWrapper-sc-1nxmeoo-19 bAfGiD">
+            456
+           </span>
+          </div>
+          <div class="ReviewAndRatingsstyles__BreakupWrapperContainer-sc-1nxmeoo-25 igdVih">
+           <span class="ReviewAndRatingsstyles__ReviewTypeTextWrapper-sc-1nxmeoo-17 kCIcHV">
+            2
+           </span>
+           <svg class="RatingStarIcon-sc-1lv0lb2-0 ReviewAndRatingsstyles__StarDiv-sc-1nxmeoo-20 jfinCb cQWnMi" height="14" width="15" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-5-5h24v24H-5z">
+             </path>
+             <path d="M7.15 11.622l3.469 2.13c.635.39 1.412-.187 1.245-.917l-.92-4.004 3.068-2.699c.56-.492.259-1.425-.477-1.484L9.5 4.3 7.92.515a.831.831 0 00-1.537 0l-1.58 3.776-4.036.348C.031 4.7-.27 5.632.29 6.124l3.067 2.698-.92 4.005c-.166.73.61 1.307 1.246.916l3.468-2.12z" fill="#FDBA00">
+             </path>
+            </g>
+           </svg>
+           <div class="Layouts__Row-sc-1yzlivq-0 ReviewAndRatingsstyles__ProgressBarWrapperDiv-sc-1nxmeoo-18 lmaLVI clBuBC">
+            <div class="Layouts__Column-sc-1yzlivq-1 ReviewAndRatingsstyles__OverriddenProgressBar-sc-1nxmeoo-24 eqevTR jQZEYa">
+             <span class="ReviewAndRatingsstyles__ProgressLine-sc-1nxmeoo-26 cwFQCy" width="2.31">
+             </span>
+            </div>
+           </div>
+           <span class="ReviewAndRatingsstyles__ProgressBarCountWrapper-sc-1nxmeoo-19 bAfGiD">
+            154
+           </span>
+          </div>
+          <div class="ReviewAndRatingsstyles__BreakupWrapperContainer-sc-1nxmeoo-25 igdVih">
+           <span class="ReviewAndRatingsstyles__ReviewTypeTextWrapper-sc-1nxmeoo-17 kCIcHV">
+            1
+           </span>
+           <svg class="RatingStarIcon-sc-1lv0lb2-0 ReviewAndRatingsstyles__StarDiv-sc-1nxmeoo-20 jfinCb cQWnMi" height="14" width="15" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-5-5h24v24H-5z">
+             </path>
+             <path d="M7.15 11.622l3.469 2.13c.635.39 1.412-.187 1.245-.917l-.92-4.004 3.068-2.699c.56-.492.259-1.425-.477-1.484L9.5 4.3 7.92.515a.831.831 0 00-1.537 0l-1.58 3.776-4.036.348C.031 4.7-.27 5.632.29 6.124l3.067 2.698-.92 4.005c-.166.73.61 1.307 1.246.916l3.468-2.12z" fill="#FDBA00">
+             </path>
+            </g>
+           </svg>
+           <div class="Layouts__Row-sc-1yzlivq-0 ReviewAndRatingsstyles__ProgressBarWrapperDiv-sc-1nxmeoo-18 lmaLVI clBuBC">
+            <div class="Layouts__Column-sc-1yzlivq-1 ReviewAndRatingsstyles__OverriddenProgressBar-sc-1nxmeoo-24 eqevTR jQZEYa">
+             <span class="ReviewAndRatingsstyles__ProgressLine-sc-1nxmeoo-26 bLrKGJ" width="2.34">
+             </span>
+            </div>
+           </div>
+           <span class="ReviewAndRatingsstyles__ProgressBarCountWrapper-sc-1nxmeoo-19 bAfGiD">
+            156
+           </span>
+          </div>
+         </div>
+         <div class="ReviewAndRatingsstyles__TipUI-sc-1nxmeoo-21 ReviewAndRatingsstyles__TipPositioning-sc-1nxmeoo-22 cTbMIW iGQzth">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="HotelCardstyles__HotelNameWrapperDiv-sc-1s80tyk-11 hiiHjq">
+      <a class="HotelCardstyles__HotelNameSeoAnchor-sc-1s80tyk-12 kZJdUo" content="Hotel Vintage Villa" href='/hotels/vintage-villa-hotel-in-bhubaneswar-6828897297081256257/?hquery={"ci":"20210223","co":"20210224","r":"1-2-0","ibp":"v3"}&amp;hmd=ecb8ce08503be5ee0a6c41efb788010dcca4664aef1ae6cb23498baeb4f6b13aaaaaa1ba66f18b25c52631e016cd688f520f361f75a5fad6a7b1aef8b69943145110edb360b1e85b102b2f1aeeb6221541fc85eae7f73a5a96788a3175750fa5dc62aee83baa52487c2839d6988d7716d3caee20d5b51ec7c271a316602f2c5e2a3058147bb121bd68a40b7d079bef5b4c941bf7c4a1df2edc60da89ba4d5436461bcaff895b1ff5768a5fb6537bf41b46b6c9ff4554bf71a6b34b0ed749459be0ce169ec9b2b89a5f81af7c775f880ba1c7810d313a82388a0025c4a5deeda1b9ec73d6d7ee3f83898fec1de1c02c7321d251575eb837f4259ac3518ad1f45e6de9ddf7fa9070ac09a4b4eaef7cabb6475da8f8eea2b8e5d0d1ab268caf345c7ebbefc649b3783005e110e642c7cc87d7470440d8ae4cfa6216edcc795aba3c044561cdb6bc74f001243c21f5&amp;cc=IN&amp;reviewType=gi' itemprop="name" target="_blank">
+       Hotel Vintage Villa
+      </a>
+     </div>
+     <div itemprop="address">
+      <span class="PersuasionHoverTextstyles__WrapperDiv-sc-1c06rw1-13 bJRAss">
+       <span class="PersuasionHoverTextstyles__HoverTargetWrapperDiv-sc-1c06rw1-2 eGhSZO" type="customLocation">
+        <div class="PersuasionHoverTextstyles__TextWrapperSpan-sc-1c06rw1-14 hbBHvg" color="#2274E0" type="customLocation">
+         <span>
+          Laxmi Sagar
+         </span>
+        </div>
+       </span>
+      </span>
+      <span>
+      </span>
+     </div>
+    </div>
+    <div class="HotelCardstyles__PersuasionWrapperDiv-sc-1s80tyk-8 jJhZju">
+     <div class="HotelCardstyles__RoomTypeWrapperDiv-sc-1s80tyk-13 kvHakD">
+      <span class="PersuasionHoverTextstyles__WrapperDiv-sc-1c06rw1-13 bJRAss">
+       <span class="PersuasionHoverTextstyles__HoverTargetWrapperDiv-sc-1c06rw1-2 eGhSZO" type="aboveRatePlanPersuasion">
+        <span class="PersuasionHoverTextstyles__MainTextIconWrapperSpan-sc-1c06rw1-18 hRPFiS" type="aboveRatePlanPersuasion">
+         <svg class="UgcPersuasionIcon-xk3nsn-0 biWMqo" fill="#4f525a" height="1.6rem" width="1.6rem" xmlns="http://www.w3.org/2000/svg">
+          <g fill="none" fill-rule="evenodd">
+           <path d="M-4-4h24v24H-4z">
+           </path>
+           <path d="M8 0a8.009 8.009 0 018 8 8 8 0 11-8-8zm2.933 6.667H9.267a.167.167 0 01-.139-.26l1.31-1.964a.5.5 0 00-.416-.776H7.539a.667.667 0 00-.596.368L4.82 8.278A.5.5 0 005.267 9h1.04a.167.167 0 01.158.22L5.35 12.56a.333.333 0 00.553.342l5.382-5.383a.5.5 0 00-.352-.853z" fill="#898B91">
+           </path>
+          </g>
+         </svg>
+        </span>
+        <div class="PersuasionHoverTextstyles__TextWrapperSpan-sc-1c06rw1-14 jLajgr" color="#4f525a" type="aboveRatePlanPersuasion">
+         <span>
+          2.9 km from Biju Patnaik International Airport
+         </span>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class="HotelCardstyles__RoomTypeWrapperDiv-sc-1s80tyk-13 kvHakD">
+      <span class="HotelCardstyles__RoomTypeIconWrapperSpan-sc-1s80tyk-16 gBEjmc">
+       <svg class="BedIcon-pl6h8j-0 kgRfpT" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" fill-rule="evenodd">
+         <path d="M-4-4h24v24H-4z">
+         </path>
+         <path d="M.333 11h15.334c.16 0 .295.114.326.266l.007.067V13.5a1.502 1.502 0 01-1.5 1.5.167.167 0 00-.158.114l-.009.053v.333a.5.5 0 01-.992.09l-.008-.09v-.167a.333.333 0 00-.266-.326L13 15H3a.333.333 0 00-.327.266l-.006.067v.167a.5.5 0 01-.992.09l-.008-.09v-.333A.167.167 0 001.5 15a1.502 1.502 0 01-1.493-1.356L0 13.5v-2.167c0-.16.114-.295.266-.326L.333 11h15.334zM1.51 4.333h12.98c.138 0 .258.084.309.208l.019.064.992 5.334a.333.333 0 01-.255.386l-.073.008H.517a.333.333 0 01-.334-.321l.006-.073.992-5.334a.333.333 0 01.26-.265l.068-.007H14.49zM13.167 0a1.502 1.502 0 011.5 1.5v1.833c0 .184-.15.334-.334.334h-1.05a.333.333 0 01-.33-.279l-.24-1.443a.333.333 0 00-.329-.278h-3.05A.333.333 0 009 2v1.333c0 .184-.15.334-.333.334H7.333A.333.333 0 017 3.333V2a.333.333 0 00-.333-.333H3.616a.333.333 0 00-.33.278l-.24 1.443a.333.333 0 01-.329.279h-1.05a.333.333 0 01-.334-.334V1.5a1.502 1.502 0 011.5-1.5z" fill="#898B91">
+         </path>
+        </g>
+       </svg>
+      </span>
+      <span class="HotelCardstyles__RoomTypeTextWrapper-sc-1s80tyk-15 feNSdH" title="Standard Non A/C">
+       Standard Non A/C
+      </span>
+     </div>
+     <div class="HotelCardstyles__RoomTypeWrapperDiv-sc-1s80tyk-13 kvHakD">
+      <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 fFgkac">
+       <svg class="RoundedCheckbox-sc-4skzta-0 jbPKJx" viewbox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd">
+         <path d="M-4-4h24v24H-4z">
+         </path>
+         <path d="M7.68 0a7.68 7.68 0 110 15.36A7.68 7.68 0 017.68 0zm4.335 3.922l-6.233 6.702-2.454-2.26a.436.436 0 00-.622.021.452.452 0 00.022.632l2.556 2.358c.295.28.76.26 1.039-.032l6.326-6.8a.452.452 0 00-.011-.632.436.436 0 00-.623.011z" fill="#898B91">
+         </path>
+        </g>
+       </svg>
+       <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+        Air Conditioning
+       </p>
+      </div>
+      <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 fFgkac">
+       <svg class="BanquetHallIcon-sc-5ff6c4-0 gMJEYl" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16 32c14.267 0 15.801-2.763 15.801-3.951 0-.855 0-2.857-9.388-3.684a1.317 1.317 0 00-.231 2.623c1.691.128 3.372.376 5.028.743a.33.33 0 010 .642 52.015 52.015 0 01-11.211.995 51.924 51.924 0 01-11.208-.995.33.33 0 010-.642 35.53 35.53 0 014.975-.737 1.316 1.316 0 00-.232-2.622C.201 25.201.201 27.199.201 28.051.198 31.616 11.249 32.002 16 32.002z">
+        </path>
+        <path d="M17.697 8.84a.333.333 0 01-.023-.621 4.28 4.28 0 10-3.349 0 .334.334 0 01-.022.622 5.275 5.275 0 00-3.569 4.987v3.951c0 .363.294.657.657.657h1.176c.172 0 .315.131.328.303l.475 5.679a.658.658 0 00.656.603h3.949a.658.658 0 00.656-.603l.475-5.679a.328.328 0 01.328-.303h1.176a.657.657 0 00.657-.657v-3.95a5.275 5.275 0 00-3.569-4.987zM6.372 10.149a.334.334 0 01-.029-.616 3.62 3.62 0 10-3.067 0 .334.334 0 01-.028.616 4.617 4.617 0 00-3.049 4.335v1.977c0 .363.294.657.657.657h1.093a.331.331 0 01.327.293l.56 5.048c.04.332.32.583.655.587h2.633a.66.66 0 00.655-.585l.561-5.049a.328.328 0 01.327-.293h1.091a.658.658 0 00.659-.656v-1.98a4.613 4.613 0 00-3.044-4.333zM28.756 10.149a.335.335 0 01-.028-.616 3.62 3.62 0 10-3.067 0 .334.334 0 01-.028.616 4.614 4.614 0 00-3.045 4.335v1.977c0 .363.294.657.657.657H24.337a.33.33 0 01.328.293l.56 5.048c.04.332.32.583.655.587h2.633a.66.66 0 00.655-.585l.561-5.049a.328.328 0 01.327-.293h1.091a.658.658 0 00.659-.656v-1.98a4.613 4.613 0 00-3.049-4.333z">
+        </path>
+       </svg>
+       <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+        Banquet hall
+       </p>
+      </div>
+      <div class="AmenitiesListstyles__HoverTargetWrapperDiv-sc-19dqtu1-1 kYhbNQ">
+       <a class="dwebCommonstyles__PrimaryLink-sc-112ty3f-7 bKSSpp">
+        + more
+       </a>
+       <div class="AmenitiesListstyles__HiddenDropdownWrapperDiv-sc-19dqtu1-0 gTakqA">
+        <div class="AmenitiesListstyles__TopDiv-sc-19dqtu1-2 iVplPs">
+         <div class="dwebCommonstyles__BaseColumnWrap-sc-112ty3f-2 AmenitiesListstyles__ListDropDownWrapper-sc-19dqtu1-5 effzYJ gfiLKs">
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <div class="Layouts__Row-sc-1yzlivq-0 AmenitiesListstyles__TextBlockDDHeading-sc-19dqtu1-8 lmaLVI cYoSYv">
+            <span class="AmenitiesListstyles__TextBlockDDHeadingSpan-sc-19dqtu1-9 jgXihD">
+             <span class="AmenitiesListstyles__MiniIconWrapperSpan-sc-19dqtu1-10 ixFhmg">
+              <svg class="SwimmingIcon-sc-2o20qz-0 idXOnv" fill="#2274E0" height="1.2rem" viewbox="0 0 32 32" width="1.2rem" xmlns="http://www.w3.org/2000/svg">
+               <path d="M9.431 18.767a2.813 2.813 0 001.983 1.165 3.723 3.723 0 002.517-1.356 3.333 3.333 0 015.716.52c.295.499.823.813 1.401.836a2.49 2.49 0 001.969-1.128c.198-.34.46-.639.772-.879a.333.333 0 00.065-.456l-6.145-8.605a2 2 0 011.142-3.103l5.232-1.309a2 2 0 00-.971-3.88L17.879 1.88a5.999 5.999 0 00-3.425 9.31l.393.551-7.333 5.04a.333.333 0 00.091.593 3.265 3.265 0 011.825 1.393z">
+               </path>
+               <path d="M26.906 8.006a3.166 3.166 0 11-4.478 4.478 3.166 3.166 0 114.478-4.478zM11.413 24.597a7.812 7.812 0 005.08-2 6.1 6.1 0 004.555 2 6.868 6.868 0 004.829-2 6.37 6.37 0 004.881 1.976 1.333 1.333 0 001.241-1.419 1.363 1.363 0 00-1.424-1.239 4.483 4.483 0 01-3.567-2.092 1.4 1.4 0 00-2.288.029 4.496 4.496 0 01-3.671 2.077 3.739 3.739 0 01-3.2-1.975 1.39 1.39 0 00-2.29-.209 5.735 5.735 0 01-4.133 2.184 4.74 4.74 0 01-3.68-2.107 1.39 1.39 0 00-2.184-.122c-.017.024-1.956 2.427-4.145 2.267a1.307 1.307 0 00-1.414 1.192l-.004.073a1.332 1.332 0 001.261 1.401c.101 0 .199.008.296.008a7.776 7.776 0 004.976-2.143 6.977 6.977 0 004.88 2.096zM30.573 28.759a4.515 4.515 0 01-3.567-2.092 1.398 1.398 0 00-2.288.029 4.496 4.496 0 01-3.671 2.077 3.733 3.733 0 01-3.2-1.976 1.393 1.393 0 00-2.29-.208 5.735 5.735 0 01-4.133 2.184 4.746 4.746 0 01-3.692-2.107 1.388 1.388 0 00-2.184-.122c-.017.024-1.853 2.275-3.989 2.275h-.156a1.304 1.304 0 00-1.401 1.199l-.003.057a1.335 1.335 0 001.26 1.403h.001c.101 0 .199.008.296.008a7.788 7.788 0 004.976-2.143 6.985 6.985 0 004.88 2.096 7.812 7.812 0 005.08-2 6.1 6.1 0 004.555 2 6.868 6.868 0 004.829-2 6.425 6.425 0 004.881 1.976 1.333 1.333 0 001.241-1.416 1.353 1.353 0 00-1.427-1.241z">
+               </path>
+              </svg>
+             </span>
+             <span class="AmenitiesListstyles__AmenitiesHoverTitleSpan-sc-19dqtu1-11 bwIpRD">
+              Amenities
+             </span>
+            </span>
+           </div>
+          </div>
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <svg class="CctvIcon-pvucvd-0 ifgeeB" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M25.827 7.373l-2.04.549a.667.667 0 00-.487.549 3.333 3.333 0 01-3.3 2.861H7.333a.667.667 0 00-.667.667v.667a3.333 3.333 0 003.333 3.333h1.667c.368 0 .667.298.667.667v5.717a.667.667 0 01-.561.659l-7.667 1.224a.667.667 0 01-.772-.657v-1.276a1.667 1.667 0 00-3.334 0v8a1.667 1.667 0 003.334 0v-2c0-.328.238-.607.561-.659l9.375-1.489a3.006 3.006 0 002.4-2.933v-6.585c0-.368.298-.667.667-.667h8.997c.736 0 1.333-.597 1.333-1.333V8.018a.667.667 0 00-.84-.644z">
+            </path>
+            <path d="M31.717.513A1.32 1.32 0 0030.666 0H9.333a4 4 0 00-4 4v4c0 .736.597 1.333 1.333 1.333h13.333c.736 0 1.333-.597 1.333-1.333v-.977c0-.302.202-.566.493-.644l8.551-2.299a1.27 1.27 0 00.899-.855l.684-1.568a1.325 1.325 0 00-.243-1.144zM29.333 8C28.597 8 28 8.597 28 9.333V12a1.333 1.333 0 002.666 0V9.333c0-.736-.597-1.333-1.333-1.333z">
+            </path>
+           </svg>
+           <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+            CCTV surveillance
+           </p>
+          </div>
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <svg class="ConferenceRoomIcon-n8vzmu-0 dmLPEG" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12.315 24.465a3.8 3.8 0 103.801-3.799h-.001a3.804 3.804 0 00-3.8 3.799zM6.259 28.267a3.8 3.8 0 10-3.8-3.801 3.804 3.804 0 003.8 3.801zM21.952 24.465a3.8 3.8 0 103.801-3.799h-.001a3.804 3.804 0 00-3.8 3.799z">
+            </path>
+            <path d="M31.185 30.915a6.877 6.877 0 00-5.377-2.575 6.879 6.879 0 00-4.649 1.793.331.331 0 01-.444 0 7.095 7.095 0 00-9.428 0 .332.332 0 01-.445 0 6.878 6.878 0 00-4.648-1.795 6.877 6.877 0 00-5.379 2.576.667.667 0 00.519 1.085h29.333a.667.667 0 00.519-1.086zM11.525 12.667h8.964a.668.668 0 00.64-.849 5.218 5.218 0 00-3.373-3.532 4.331 4.331 0 10-3.493.012 5.363 5.363 0 00-3.377 3.52.667.667 0 00.639.855zM6.667 16c0 .736.597 1.333 1.333 1.333h.637a.332.332 0 01.327.267l.4 1.993a1.334 1.334 0 102.61-.526l-.267-1.333a.331.331 0 01.327-.4h7.933a.33.33 0 01.327.4l-.267 1.333a1.334 1.334 0 102.613.525l.4-1.993a.333.333 0 01.327-.267H24a1.333 1.333 0 000-2.666H8c-.736 0-1.333.597-1.333 1.333v.003z">
+            </path>
+           </svg>
+           <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+            Conference Room
+           </p>
+          </div>
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <svg class="RoundedCheckbox-sc-4skzta-0 jbPKJx" viewbox="0 0 16 16">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-4-4h24v24H-4z">
+             </path>
+             <path d="M7.68 0a7.68 7.68 0 110 15.36A7.68 7.68 0 017.68 0zm4.335 3.922l-6.233 6.702-2.454-2.26a.436.436 0 00-.622.021.452.452 0 00.022.632l2.556 2.358c.295.28.76.26 1.039-.032l6.326-6.8a.452.452 0 00-.011-.632.436.436 0 00-.623.011z" fill="#898B91">
+             </path>
+            </g>
+           </svg>
+           <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+            Contactless check-in
+           </p>
+          </div>
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <svg class="RestaurantIcon-sc-1f8rkpo-0 esLBcA" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20.667 0a1 1 0 00-1 1v29.667a1.333 1.333 0 002.666 0V20c0-.368.298-.667.667-.667h2.333A1.658 1.658 0 0027 17.685V17.657C26.915 8.073 23.776 0 20.667 0zM14.333 0C13.597 0 13 .597 13 1.333V8a2.66 2.66 0 01-.761 1.867.334.334 0 01-.572-.234v-8.3a1.333 1.333 0 00-2.666 0V9.63a.334.334 0 01-.572.233 2.657 2.657 0 01-.761-1.864V1.332a1.333 1.333 0 00-2.666 0v6.667a5.344 5.344 0 003.556 5.029.666.666 0 01.444.628v17.009a1.333 1.333 0 002.666 0V13.656c0-.282.178-.534.444-.628a5.345 5.345 0 003.556-5.029V1.332c0-.736-.597-1.333-1.333-1.333z">
+            </path>
+           </svg>
+           <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+            Dining
+           </p>
+          </div>
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <svg class="RoundedCheckbox-sc-4skzta-0 jbPKJx" viewbox="0 0 16 16">
+            <g fill="none" fill-rule="evenodd">
+             <path d="M-4-4h24v24H-4z">
+             </path>
+             <path d="M7.68 0a7.68 7.68 0 110 15.36A7.68 7.68 0 017.68 0zm4.335 3.922l-6.233 6.702-2.454-2.26a.436.436 0 00-.622.021.452.452 0 00.022.632l2.556 2.358c.295.28.76.26 1.039-.032l6.326-6.8a.452.452 0 00-.011-.632.436.436 0 00-.623.011z" fill="#898B91">
+             </path>
+            </g>
+           </svg>
+           <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+            Doctor On Call
+           </p>
+          </div>
+          <div class="AmenitiesListstyles__IconWrapperDiv-sc-19dqtu1-6 CGtro">
+           <svg class="HappyWifiIcon-sc-9vspjr-0 bgVBFh" viewbox="0 0 16 15" xmlns="http://www.w3.org/2000/svg">
+            <path d="M8 11.295a1.794 1.794 0 110 3.588 1.794 1.794 0 010-3.588zM4.322 8.693A5.203 5.203 0 019.71 7.465c.74.254 1.411.673 1.965 1.225a.897.897 0 01-.634 1.531l-.117-.007a.895.895 0 01-.515-.254l-.067-.055-.069-.056a3.408 3.408 0 00-4.683.111.894.894 0 01-.634.264l-.12-.008a.898.898 0 01-.514-1.523zM2.293 5.947a8.081 8.081 0 0111.412 0 .89.89 0 01.262.633v.021a.89.89 0 01-.893.876l-.118-.008a.892.892 0 01-.516-.254 6.286 6.286 0 00-8.878 0 .898.898 0 01-1.268-1.268zM.263 3.2c4.276-4.267 11.198-4.267 15.474 0a.894.894 0 01-.402 1.5.894.894 0 01-.866-.232 9.162 9.162 0 00-12.939 0A.897.897 0 01.262 3.2z">
+            </path>
+           </svg>
+           <p class="AmenitiesListstyles__TextWrapper-sc-19dqtu1-7 hoxxAR">
+            Free Internet
+           </p>
+          </div>
+         </div>
+         <div class="AmenitiesListstyles__TipUI-sc-19dqtu1-3 AmenitiesListstyles__TipPositioning-sc-19dqtu1-4 kZcnDb ehnKMm">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="HotelCardstyles__RoomTypeWrapperDiv-sc-1s80tyk-13 kvHakD">
+      <span class="PersuasionHoverTextstyles__WrapperDiv-sc-1c06rw1-13 bJRAss">
+       <span class="PersuasionHoverTextstyles__HoverTargetWrapperDiv-sc-1c06rw1-2 eGhSZO" type="contentPersuasion1">
+        <span class="PersuasionHoverTextstyles__MainTextIconWrapperSpan-sc-1c06rw1-18 hRPFiS" type="contentPersuasion1">
+         <svg class="CoupleFriendlyIcon-sc-1akp97f-0 fBvUYJ" fill="#ff6d38" height="1.6rem" viewbox="0 0 32 32" width="1.6rem" xmlns="http://www.w3.org/2000/svg">
+          <path d="M23.333 4.309A4.133 4.133 0 0019.805.025a3.776 3.776 0 00-3.539 1.627.333.333 0 01-.541 0A3.772 3.772 0 0012.194.025a4.133 4.133 0 00-3.528 4.284c0 3.236 4.564 7.081 6.533 8.585.473.37 1.137.37 1.611 0 1.957-1.503 6.523-5.349 6.523-8.585zM11.155 24.507a.335.335 0 01-.044-.566 5.866 5.866 0 10-6.888 0 .334.334 0 01-.044.567A7.674 7.674 0 000 31.335c0 .368.298.667.667.667h14a.667.667 0 00.667-.667 7.675 7.675 0 00-4.179-6.827zM7.667 22.4a3.2 3.2 0 01-3.035-4.207.333.333 0 01.496-.174 7.509 7.509 0 005.337 1.073.332.332 0 01.281.081.336.336 0 01.108.267 3.2 3.2 0 01-3.188 2.96zM27.733 24.892a.667.667 0 00-.839.28l-1.611 2.8a.335.335 0 01-.579 0l-1.611-2.8a.667.667 0 00-.839-.28 7.01 7.01 0 00-4.256 6.441c0 .368.298.667.667.667h12.667a.667.667 0 00.667-.667 7.01 7.01 0 00-4.267-6.441z">
+          </path>
+          <path d="M19.333 18.977a4.092 4.092 0 01-.933 3.136 1.333 1.333 0 101.866 1.896 5.16 5.16 0 00.557-.651.334.334 0 01.488-.054 5.654 5.654 0 007.368 0 .338.338 0 01.488.056c.168.232.354.449.557.651a1.333 1.333 0 101.875-1.897 4.088 4.088 0 01-.933-3.136 5.667 5.667 0 10-11.334 0zm2.964.036a4.565 4.565 0 001.212-.373c.481-.226.9-.564 1.221-.987a.335.335 0 01.533 0c.322.422.741.761 1.221.987.385.18.793.306 1.212.373.173.034.29.196.267.371a2.998 2.998 0 01-5.949 0 .335.335 0 01.283-.371z">
+          </path>
+         </svg>
+        </span>
+        <div class="PersuasionHoverTextstyles__TextWrapperSpan-sc-1c06rw1-14 jhjceH" color="#ff6d38" type="contentPersuasion1">
+         <span>
+          Couple Friendly
+         </span>
+        </div>
+       </span>
+      </span>
+     </div>
+     <div class="GoSafeTagPersuasionstyles__GoSafeTagContainer-fge448-1 jnCudw">
+      <div class="GoSafeDetailedPersuasionstyles__GoSafeMainContainer-sc-7q397w-0 iTqMgh">
+       <img alt="" class="GoSafeDetailedPersuasionstyles__GosafeImg-sc-7q397w-3 HfLsu" data-testid="" itemprop="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+       <span class="GoSafeDetailedPersuasionstyles__TextContentNormalSpan-sc-7q397w-2 eZILqg" color="#141823">
+        Safety &amp; Hygiene - Self Certified
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="HotelCardstyles__HotelPricingInfoWrapperDiv-sc-1s80tyk-17 cfDEuq">
+    <div class="HotelCardstyles__ContentWrapperDiv-sc-1s80tyk-18 fWvQtI">
+     <span class="PersuasionHoverTextstyles__WrapperDiv-sc-1c06rw1-13 bJRAss">
+      <span class="PersuasionHoverTextstyles__HoverTargetWrapperDiv-sc-1c06rw1-2 cvmqwa" type="belowBannerPersuasion">
+       <div class="PersuasionHoverTextstyles__TextWrapperSpan-sc-1c06rw1-14 fToBfJ" color="#2bac36" type="belowBannerPersuasion">
+        <span>
+         Free Cancellation Till Checkin
+        </span>
+       </div>
+      </span>
+     </span>
+    </div>
+    <div>
+     <div class="HotelCardstyles__PriceInfoWrapperDiv-sc-1s80tyk-24 ilNNaN">
+      <div class="HotelCardstyles__DealPersuationWrapperDiv-sc-1s80tyk-14 fQkIjb">
+      </div>
+      <span class="OfferTagstyles__OuterBlockWrapper-sc-16zl30v-9 bnZlUC">
+       <div class="OfferTagstyles__PercentageOffWrapperDiv-sc-16zl30v-10 fShEyB">
+        47% Off
+       </div>
+       <span class="OfferTagstyles__PercentageLabelStyles-sc-16zl30v-11 jCvTUf">
+       </span>
+      </span>
+      <div class="DWebPopper__DWebToolTip-sc-1taabpd-0 eamLSW" id="tooltip" style="position:absolute;left:0;top:0">
+       <div>
+       </div>
+      </div>
+      <section class="HotelCardstyles__PricingCompleteSection-sc-1s80tyk-53 cEIAnE">
+       <p class="HotelCardstyles__OriginalPriceTextWrapper-sc-1s80tyk-25 bpbTFw">
+        <span>
+         ₹1499
+        </span>
+       </p>
+       <div class="HotelCardstyles__CurrentPriceTextWrapper-sc-1s80tyk-26 idchau">
+        <svg class="RupeeIcon-sc-5hlwf0-0 eSzJBj" height="1.5rem" viewbox="0 0 32 32" width="1.5rem" xmlns="http://www.w3.org/2000/svg">
+         <path d="M21.482 7.945h3.536c.982 0 1.786.818 1.786 1.818s-.804 1.818-1.786 1.818h-3.536a9.429 9.429 0 01-2.625 5.109 9.509 9.509 0 01-6.75 2.891h-.679l9.661 9.255c0 .018.018.018.036.036.679.673.696 1.782.036 2.473a1.742 1.742 0 01-2.518.091L5.714 19a1.78 1.78 0 01-.554-1.364c.036-.964.839-1.727 1.786-1.691h5.179a5.902 5.902 0 004.214-1.836 6.327 6.327 0 001.482-2.527H6.946c-.982 0-1.786-.818-1.786-1.818s.804-1.818 1.786-1.818h10.875C17 5.455 14.714 3.782 12.125 3.764H6.946c-.982 0-1.786-.818-1.786-1.818S5.964.128 6.946.128h18.071c.982 0 1.786.818 1.786 1.818s-.804 1.818-1.804 1.818h-5.464a8.504 8.504 0 011.946 4.182z">
+         </path>
+        </svg>
+        <p class="HotelCardstyles__CurrentPrice-sc-1s80tyk-27 czKsrL" itemprop="priceRange">
+         800
+        </p>
+       </div>
+      </section>
+      <span class="HotelCardstyles__TaxPriceTextWrapper-sc-1s80tyk-28 gbUOah">
+       + ₹180 taxes &amp; fees
+      </span>
+      <span class="HotelCardstyles__PerRoomNightTextWrapper-sc-1s80tyk-29 fYJWSg">
+       per room / night
+      </span>
+     </div>
+     <div class="HotelCardstyles__SignUpLockOuterWrapper-sc-1s80tyk-38 lnDWmt">
+      <span class="HotelCardstyles__SignUpTextWrap-sc-1s80tyk-31 guSsua">
+       Login &amp; get at
+      </span>
+      <span class="HotelCardstyles__SignUpPriceWrap-sc-1s80tyk-32 iXiudx">
+       <svg class="HappyRupeeIcon-em2g9m-0 kkyzaI" fill="#141823" height="1rem" margin-top="0.02rem" viewbox="0 0 32 32" width="1rem" xmlns="http://www.w3.org/2000/svg">
+        <path d="M21.482 7.945h3.536c.982 0 1.786.818 1.786 1.818s-.804 1.818-1.786 1.818h-3.536a9.429 9.429 0 01-2.625 5.109 9.509 9.509 0 01-6.75 2.891h-.679l9.661 9.255c0 .018.018.018.036.036.679.673.696 1.782.036 2.473a1.742 1.742 0 01-2.518.091L5.714 19a1.78 1.78 0 01-.554-1.364c.036-.964.839-1.727 1.786-1.691h5.179a5.902 5.902 0 004.214-1.836 6.327 6.327 0 001.482-2.527H6.946c-.982 0-1.786-.818-1.786-1.818s.804-1.818 1.786-1.818h10.875C17 5.455 14.714 3.782 12.125 3.764H6.946c-.982 0-1.786-.818-1.786-1.818S5.964.128 6.946.128h18.071c.982 0 1.786.818 1.786 1.818s-.804 1.818-1.804 1.818h-5.464a8.504 8.504 0 011.946 4.182z">
+        </path>
+       </svg>
+       752
+      </span>
+     </div>
+     <div class="HotelCardstyles__LockBackground-sc-1s80tyk-40 dbUTgR">
+     </div>
+     <svg class="SignUpLockIcon-sc-13lpafr-0 HotelCardstyles__SignUpLockWrapAnimated-sc-1s80tyk-41 jCpbkF kxYCxC" viewbox="0 0 73 76" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" fill-rule="evenodd">
+       <path d="M0 19v38c0 10.493 8.507 19 19 19h35c10.493 0 19-8.507 19-19V19C73 8.507 64.493 0 54 0H19C8.507 0 0 8.507 0 19z" fill="#FF6D38">
+       </path>
+       <path d="M51.21 33.417h-1.42v-5.042C49.79 21.54 44.062 16 37 16c-7.063 0-12.79 5.54-12.79 12.375v5.042h-1.42c-2.093 0-3.79 1.641-3.79 3.666v19.25C19 58.358 20.697 60 22.79 60h28.42c2.093 0 3.79-1.642 3.79-3.667v-19.25c0-2.025-1.697-3.666-3.79-3.666zM33 44.727c-.009-1.803 1.38-3.35 3.293-3.668 1.913-.319 3.796.684 4.463 2.377.668 1.692-.073 3.585-1.756 4.486v4.223C39 53.17 38.104 54 37 54c-1.105 0-2-.83-2-1.855v-4.223c-1.234-.658-1.996-1.876-2-3.195zm-4-15.834C29 24.533 32.582 21 37 21s8 3.534 8 7.893v4.178a.935.935 0 01-.941.929H29.94a.935.935 0 01-.941-.929v-4.178z" fill="#FFF" fill-rule="nonzero">
+       </path>
+      </g>
+     </svg>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

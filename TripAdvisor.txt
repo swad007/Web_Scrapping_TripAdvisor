@@ -1,0 +1,257 @@
+<div class="prw_rup prw_meta_hsx_responsive_listing ui_section listItem" data-mlv="true" data-no-pt-mw="true" data-prwidget-init="handlers" data-prwidget-name="meta_hsx_responsive_listing">
+ <div class="listing collapsed" data-show-recently-viewed="true">
+  <div class="meta_listing ui_columns large_thumbnail_mobile" data-amenityribbontrackingproperties="amenity-free-parking,amenity-pool" data-impkey="e1415350766f4e99a625f11fd32513fd" data-index="1" data-listingkey="dc79f59e-a1d9-4b2e-aa84-0b9a8636f533" data-locationid="2420284" data-ttpn="Hotels_MainList" data-url="/Hotel_Review-g297588-d2420284-Reviews-Novotel_Visakhapatnam_Varun_Beach-Visakhapatnam_Visakhapatnam_District_Andhra_Pradesh.html" onclick="widgetEvCall('handlers.listingClick', event, this);return false;">
+   <div class="ui_column is-4 thumbnail-column no-padding">
+    <div class="photo-wrapper">
+     <a class="respListingPhoto" data-clicksource="Photo" href="/Hotel_Review-g297588-d2420284-Reviews-Novotel_Visakhapatnam_Varun_Beach-Visakhapatnam_Visakhapatnam_District_Andhra_Pradesh.html">
+      <div class="react-container component-widget photo-carousel-with-ribbon" data-component="@ta/hotels.hotel-photo-mas-with-ribbons" data-component-props="page-manifest" id="photo-carousel-with-ribbon_component_22">
+       <div class="_2p1dMDlc">
+        <div class="_3NFNFnft _2cMpZ84p" data-clicksource="Photo">
+         <div class="_3174MArJ">
+          <div class="_1LazK8Oe carousel _2I2cNdtE" style="width:100%;height:100%">
+           <ul class="_1LyV0xSF" style="background-color:rgba(0,0,0,0.75)">
+            <li class="_13UaEdHg _2CIU8LK-">
+             <img alt="" class="_3lGVjVmD" src="https://media-cdn.tripadvisor.com/media/photo-s/03/4e/04/0f/novotel-vishakhapatnam.jpg"/>
+            </li>
+            <li class="_13UaEdHg">
+             <div class="ZVAUHZqh" style="background-size:cover;height:100%;width:100%;background-image:none">
+             </div>
+            </li>
+           </ul>
+           <div class="_1zpo-9Wn _2VLwZ3xm is-shown-at-tablet" data-clicksource="CarouselArrow">
+           </div>
+           <div class="_1l7gYLA9 _2VLwZ3xm is-shown-at-tablet" data-clicksource="CarouselArrow">
+           </div>
+           <div class="_2qbrZ4xV PpSvF-Sf _2tiSupry">
+            <div class="_1BS2ZB3J" data-clicksource="IndicatorDot" style="width:126px">
+             <div class="_6mQ2PSh1 _2Txjoeu9" style="transform:translate3d(0px, 0, 0) scale3d(0, 0, 1)">
+             </div>
+             <div class="_6mQ2PSh1 _2w-gbegQ _2Txjoeu9" style="transform:translate3d(20px, 0, 0) scale3d(1.3, 1.3, 1)">
+             </div>
+             <div class="_6mQ2PSh1 _2Txjoeu9" style="transform:translate3d(40px, 0, 0) scale3d(1, 1, 1)">
+             </div>
+             <div class="_6mQ2PSh1 _2Txjoeu9" style="transform:translate3d(60px, 0, 0) scale3d(1, 1, 1)">
+             </div>
+             <div class="_6mQ2PSh1 _2Txjoeu9" style="transform:translate3d(80px, 0, 0) scale3d(1, 1, 1)">
+             </div>
+             <div class="_6mQ2PSh1 _2Txjoeu9" style="transform:translate3d(100px, 0, 0) scale3d(1, 1, 1)">
+             </div>
+             <div class="_6mQ2PSh1 _2Txjoeu9" style="transform:translate3d(120px, 0, 0) scale3d(0, 0, 1)">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <span class="Ef9eFgme">
+         <span class="_2HR-VGsF">
+         </span>
+        </span>
+       </div>
+      </div>
+     </a>
+     <div class="react-container component-widget badgeTR" data-component="@ta/trips.save-to-trip" data-component-props="page-manifest" id="@ta/trips.save-to-trip:location:2420284_component_24">
+     </div>
+    </div>
+   </div>
+   <div class="ui_column is-8 main_col allowEllipsis">
+    <div class="prw_rup prw_meta_hsx_listing_name listing-title" data-prwidget-init="" data-prwidget-name="meta_hsx_listing_name">
+     <div class="listing_title">
+      <a class="property_title prominent" data-clicksource="HotelName" dir="ltr" href="/Hotel_Review-g297588-d2420284-Reviews-Novotel_Visakhapatnam_Varun_Beach-Visakhapatnam_Visakhapatnam_District_Andhra_Pradesh.html" id="property_2420284" onclick="return false;" target="_blank">
+       Novotel Visakhapatnam Varun Beach
+      </a>
+     </div>
+    </div>
+    <div class="main-cols">
+     <div class="comm-col">
+      <div class="prw_rup prw_meta_h_responsive_commerce_tvg_multi_larger_thumbnail fullHeight is-shown-at-mobile" data-prwidget-deferred="tablet/tablet" data-prwidget-init="handlers" data-prwidget-name="meta_h_responsive_commerce_tvg_multi_larger_thumbnail">
+       <div class="comblock no_cpu active hacComplete linkStrategyBlackPriceHover linkStrategyUnderlinePrices offsiteArrowPartner offsiteControlOrder" data-amenityribbontrackingproperties="amenity-free-parking,amenity-pool" data-listpos="1" data-locationid="2420284">
+        <div class="premium_offer_container">
+         <div class="premium_offer no_cpu ui_columns is-mobile is-gapless is-multiline withXthrough with-condensed-primary-commerce with-provider-logo metaOffer" data-clicktoken="LzW421DJ9VDgrES20tEn1dUoXAAXX0zH1XdXKXvd0ze1qWxMJIVxPQz10qK1U0zq1U0iit1K0zL1UK0tSci1mkAok0Hpn9VI1AdX3mo0CEJC91U0nEJC91U0ncI1xM0IIg2V1xMVt9Ii2DVIJ0Ia1UAUAUkmXm0aJCJyVM1TJctV0nJ22VM1TJctV0yitixE1zCxdNkkUVzsu27RuZy55WcowJfUKnV7ydnzCQlxXOqQoCEqiiCuqIzszs3MCrVEkGqitvxXpGaQgbXKqIUJCmbZq8IUzze57WZszzchxEx5EKWAurZrcQA3JszzgxMI3ygxMDMx5y7mmAyfSzs993qi7IxMexG2G9cqnOJxbcRf9axdt2q8x5AxbOsmyx2SxEtzsqnIiaq8C7zCrEk3QkJK5sHqIx2pxExXGZqIRzzK702ESnVhGiuC13kUA02a1blxdzs0GJn1bqiblRb7Rzs0aHc1Dzszsr0aHcMVcIJ1U0EJIV1oAAAYKK0TVVt1kUAYvv0npE1lZe0JMpcIt1X0nGScMQEaQJyVt10SCxMJg1UU0ipIxMJg1UX0EMVxE1exMzsqIQkKJXkvTVoHoKH3HnMJMMJUKvTMUH3U3m0Eiiat1U0SCDiCIG1X0SCq8VJE1XKXU0ipIDiCIG1X0ipIq8VJE1XKXU0JpSM1KM3vkVdAWonoVWdUTHWJvdTWKKAHVmTToUmA0MVTQM1IEpV0HcM1RQUxhxMQUXxhzzQXxhxdQdxhxGQUxhfQXUKXUU0HG1IEpV0nt1UkKXAkAVnKmmMdK3UVUAkHTJJKXUdTHAd0zb1xXfQDVIJzQfGVsEiCzQbsJScJHcVzQDJSCzQxMVt9Ii20I21z1QDJSCRStI0iH1CVuQIJH0S91VUdUomoKk33TdVAAJ3XoTUUTMmXoUmTM0tIES9VIGEipyGwESnV1kKX30JaipCIhJsVM1mKk0Ji913H3XKVooUKToddoJvkkUJUM33v3Km3Xm" data-contentid="41529922" data-locationid="2420284" data-pernight="6719" data-provider="MakeMyTrip" data-specialratetype="NONE" data-taxesvalue="720" data-vendorname="MakeMyTrip" onclick="widgetEvCall('handlers.clickOffer', event, this);">
+          <div class="priceBlock ui_column is-12-tablet">
+           <div class="price-wrap">
+            <div class="xwrap">
+             <div class="xthrough autoResize" data-sizegroup="mini-meta-xthrough">
+              <div>
+               ₹ 7,026
+              </div>
+             </div>
+            </div>
+            <div class="price autoResize" data-clickpart="chevron_price" data-index="0" data-sizegroup="mini-meta-price">
+             ₹ 6,719
+            </div>
+           </div>
+           <div class="provider autoResize" data-clickpart="chevron_provider" data-index="0" data-sizegroup="mini-meta-provider">
+            <img alt="MakeMyTrip" class="provider_logo" src="https://static.tacdn.com/img2/branding/hotels/384x164-mmtlogo.png"/>
+            <span class="provider_text">
+             MakeMyTrip
+             <span class="ui_icon external-link-no-box">
+             </span>
+            </span>
+           </div>
+          </div>
+          <div class="ui_column is-12-tablet button-col">
+           <div class="ui_button original view_deal autoResize" data-clickpart="chevron_button" data-index="0">
+            View Deal
+           </div>
+          </div>
+          <div class="prw_rup prw_hotels_merchandise_messages" data-prwidget-init="handlers" data-prwidget-name="hotels_merchandise_messages">
+           <div class="merchandise_message merchandise_message_black noPadding" data-pageaction="merchandise_message_cancel_shown" data-servletname="Hotels" data-type="FREE_CANCELLATION">
+            <span class="ui_icon checkmark msg_checkmark large_icon">
+            </span>
+            <span class="message large_message">
+             Free cancellation
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="text-links">
+         <div class="text-link no_cpu metaOffer" data-clicktoken="LzW421byiMJ0tEn1dU3vUU3v0zH1XdXKXvd0ze1qWxMJIVxPQz10qK1X0zq1U0iit1K0zL1UK0tSci13mv30Hpn9VI1AKmXX30CEJC91X0nEJC91X0ncI1xM0IIg2V1xMVt9Ii2DVIJ0Ia1UAUAUkmXm0JpMSVCnV1U3kAU0aJCJyVM1TJctV0nJ22VM1TJctV0yitixE1nzsAxEmyzsHzCmx5xGVxdTzzOGxXqQDkXqnh5xMIq8pSOqQC2uOv3wGxEdxGISGerxGkhbcx5NqigRixGsxbWxXkVAkEfAGTCzsHMzzG5OTxMx2cupmUkZWfZRozCIpxGVswwcuTOq8fRxEiHDxXuswx2UxMVUwISyHNoWW5cbHgr7ObDzzxbxbTx2HbxX35dNpxMn2UADfxXXxbqQzsTzsHluvUpOVfdwMsfySAxd9Rx23vt2pqiDtnxEI9xMxbyxdmq8nvzsQfyDx5ZxXsoxdWkyx2xbvOMvqQRxEVcqIOqnEfqiVIhE9zsunWXC7a02ESnVhGiuC13kUA02a1blxdzs0GJn1bqiblRb7Rzs0aHc1Dzszsr0aHcMVcIJ1U0EJIV1oAAAYKK0TVVt1kUAYvv0npE1lZe0JMpcIt1X0nGScMQEaQJyVt10SCxMJg1UU0ipIxMJg1UX0EMVxE1exMzsqIQXd33kAvJTAdmHHAKdomoVKJoJTKAXmXM0Eiiat1U0SCDiCIG1X0SCq8VJE1XKXU0ipIDiCIG1X0ipIq8VJE1XKXU0JpSM1KM3vkVdAWonoVWdUTHWJvdTWKKAHVmTToUmA0MVTQM1IEpV0HcM1RQUxhxMQUXxhzzQXxhxdQdxhxGQUxhfQXUKXUU0HG1IEpV0nt1UMdHA3TnkHvMdmvHd3KoHnUvVnmnMKHkv0zb1xXfQDVIJzQxBzQbsJScJHcVzQDJSCzQxMVt9Ii20I21z1QDJSCRStI0iH1CVuQIJH0S91VUdUomoKk33TdVAAJ3XoTUUTMmXoUmTM0tIES9VIGEipyGwESnV1kKX30JaipCIhJsVM1mKk0Ji91TUTVTdnkk3JTd3vvHVnJvAMM3moAdoKX" data-contentid="41681168" data-locationid="2420284" data-pernight="6719" data-provider="Agoda" data-specialratetype="NONE" data-taxesvalue="720" data-vendorname="Agoda.com" onclick="widgetEvCall('handlers.clickOffer', event, this);">
+          <div class="vendor" data-clickpart="text_provider" data-index="1" title="Agoda.com">
+           <span class="vendorInner">
+            <span class="ui_icon external-link-no-box">
+            </span>
+            Agoda.com
+           </span>
+          </div>
+          <div class="price autoResize" data-clickpart="text_price" data-index="1">
+           ₹ 6,719
+          </div>
+         </div>
+         <div class="text-link no_cpu metaOffer" data-clicktoken="LzW4217ii9SCyfia0tEn1dXmUoKUU0zH1XdXKXvd0ze1qWxMJIVxPQz10qK1m0zq1U0iit1K0zL1UK0tSci13Uk30Hpn9VI1AmKo3X0CEJC91m0nEJC91m0ncI1xM0IIg2V1xMVt9Ii2DVIJ0Ia1UAUAUkmXm0aJCJyVM1TJctV0nJ22VM1TJctV0yitixE1iAzzGGmadmMeqiJzzVCwrHxMcpxMXImJEqIkhxEzseqIXx2opCwlQaCpKWeHxMpxdtqnwAK3qiX5kKo7wpxEhURKqnQkbeeVAzzzzcwiGqQNx2VxECWpHtUxMQ7GWUo2VsgEbHtxbnxGytNT9xbkXmXbUxbavxMvvqiockx2sKuhU3MU5xbJqiJxEtqnTRgRQknXJ3Kx2k5gA2Vdbsiabx5d7KW7bHdWcxXqnCzsHEgsqnx5x5ewwESiiExXyUx5uTxEoxXEUxMhmINx2qI2NgQdlID02ESnVhGiuC13kUA02a1blxdzs0GJn1bqiblRb7Rzs0aHc1Dzszsr0aHcMVcIJ1U0EJIV1oAAAYKK0TVVt1kUAYvv0npE1lZe0JMpcIt1X0nGScMQEaQJyVt10SCxMJg1UU0ipIxMJg1UX0EMVxE1exMzsqIQMmmnHT3dXX3mXkvoHJKXVMknd3kJHTv0Eiiat1U0SCDiCIG1X0SCq8VJE1XKXU0ipIDiCIG1X0ipIq8VJE1XKXU0JpSM1KM3vkVdAWonoVWdUTHWJvdTWKKAHVmTToUmA0MVTQM1IEpV0HcM1RQUxhxMQUXxhzzQXxhxdQdxhxGQUxhfQXUKXUU0HG1IEpV0nt1UXdkAonTnAKnkk3U3UKkHKVHvXVKvMKdJ0zb1xXfQDVIJzQxBzQbsJScJHcVzQDJSCzQxMVt9Ii20I21z1QDJSCRStI0iH1CVuQIJH0S91VUdUomoKk33TdVAAJ3XoTUUTMmXoUmTM0tIES9VIGEipyGwESnV1kKX30JaipCIhJsVM1mKk0Ji91kTKAomkMHoV3dHUvAUKVXkdTAJVmvXkJ" data-contentid="42315011" data-locationid="2420284" data-pernight="6719" data-provider="BookingCom" data-specialratetype="NONE" data-taxesvalue="720" data-vendorname="Booking.com" onclick="widgetEvCall('handlers.clickOffer', event, this);">
+          <div class="vendor" data-clickpart="text_provider" data-index="2" title="Booking.com">
+           <span class="vendorInner">
+            <span class="ui_icon external-link-no-box">
+            </span>
+            Booking.com
+           </span>
+          </div>
+          <div class="price autoResize" data-clickpart="text_price" data-index="2">
+           ₹ 6,719
+          </div>
+         </div>
+         <div class="text-link no_cpu metaOffer" data-clicktoken="LzW421fIES2rb0tEn1kAXmdokA0zH1XdXKXvd0ze1qWxMJIVxPQz10qK1d0zq1U0iit1K0zL1UK0tSci1AUd30Hpn9VI1AmdKAm0CEJC91k0nEJC91A0ncI1xM0IIg2V1xMVt9Ii2DVIJ0Ia1UAUAUkmXm0aJCJyVM1IEpV0nJ22VM1TJctV0yitixE1xXZ2zsZ3AGbwJq8HemqQGzzxbHaqIxECecQwgxGfkqQxGbGyIE7qixXrdnoGzz7rZqIxGZVqnqQ9HRnvqIqnKZDyzCt2qnqnpV3zszsqil2uMTRx2o3xd9g2Ew2TxXwax5xMyMNixMx5INbCq8UIc7pzzkkIqnnwq8NVTsG5x5CJxXfgppv5xdugxMxbanhfxEefVnmM2Rx5OXJvxdXq87qnx5azCx5uyHEVtqIA3eZqQU2IWxESxMxdSh2Jo3JyAZkVESxdVxbpCqINspokyZlEtxMWtqIvqiGRQfshtoEMqIpyiwI2X3I5qnqihixX902ESnVhGiuC1kKX302a1blxdzs0GJn1bqiblRb7Rzs0aHc1RNhzs0aHcMVcIJ1dXX0EJIV13XkmYKK0TVVt1komYKK0npE1lZe0JMpcIt1X0nGScMQEaQJyVt10SCxMJg1UU0ipIxMJg1UX0EMVxE1exMzsqIQoUkUHModTVndUXH3A3TvkJUH3TTKXUUV0Eiiat1U0SCDiCIG1X0SCq8VJE1XKXU0ipIDiCIG1X0ipIq8VJE1XKXU0JpSM1KM3vkVdAWonoVWdUTHWJvdTWKKAHVmTToUmA0MVTQM1IEpV0HcM1RQUxhxMQUXxhzzQXxhxdQdxhxGQUxhfQXUKXUU0HG1IEpV0nt1UJJAdJMXTKTkJKvmKv3mmTJTKUAHnkH3m0zb1xXfQDVIJzQxBzQbsJScJHcVzQDJSCzQxMVt9Ii20I21z1QDJSCRStI0iH1CVuQIJH0S91VUdUomoKk33TdVAAJ3XoTUUTMmXoUmTM0Ji91UAmnATvmoUAddnKmHnVdodkTnnTUUU3n" data-contentid="79234579" data-locationid="2420284" data-pernight="7026" data-provider="CtripTA" data-specialratetype="NONE" data-taxesvalue="753" data-vendorname="Trip.com" onclick="widgetEvCall('handlers.clickOffer', event, this);">
+          <div class="vendor" data-clickpart="text_provider" data-index="3" title="Trip.com">
+           <span class="vendorInner">
+            <span class="ui_icon external-link-no-box">
+            </span>
+            Trip.com
+           </span>
+          </div>
+          <div class="price comparisonOffer autoResize" data-clickpart="text_price" data-index="3">
+           ₹ 7,026
+          </div>
+         </div>
+         <div class="view_all" data-ajax-preserve="viewDeals_2420284" data-clicksource="ViewAllDeals">
+          <div class="node-preserve textLink moreLink taLnk" data-invalidateonpricingmodeupdate="true" onclick="widgetEvCall('tablet/tablet.dropDown', event, this, 2420284, 1, 0, 'Hotels_MainList');">
+           <span class="taLnk">
+            View all 10 deals from ₹ 6,718
+            <span class="ui_icon caret-down">
+            </span>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="info-col">
+      <div class="prw_rup prw_common_rating_and_review_count_with_popup linespace is-shown-at-mobile" data-prwidget-init="handlers" data-prwidget-name="common_rating_and_review_count_with_popup">
+       <a alt="4.5 of 5 bubbles" class="ui_bubble_rating bubble_45" data-clicksource="BubbleRating" data-style="max-width:300px;padding:16px;" href="/Hotel_Review-g297588-d2420284-Reviews-Novotel_Visakhapatnam_Varun_Beach-Visakhapatnam_Visakhapatnam_District_Andhra_Pradesh.html#REVIEWS" onclick="widgetEvCall('handlers.reviewCountOnClick', event, this);return false;" onmouseover="widgetEvCall('handlers.showReview', event, this, 2420284, true);" target="_blank">
+       </a>
+       <a class="review_count" data-clicksource="ReviewCount" data-style="max-width:300px;padding:16px;" href="/Hotel_Review-g297588-d2420284-Reviews-Novotel_Visakhapatnam_Varun_Beach-Visakhapatnam_Visakhapatnam_District_Andhra_Pradesh.html#REVIEWS" onclick="widgetEvCall('handlers.reviewCountOnClick', event, this);return false;" onmouseover="widgetEvCall('handlers.showReview', event, this, 2420284, true);" target="_blank">
+        3,375 reviews
+       </a>
+      </div>
+      <div class="prw_rup prw_common_location_pop_index linespace is-shown-at-mobile" data-prwidget-init="handlers" data-prwidget-name="common_location_pop_index">
+       <div class="popindex" data-clicksource="PopIndex" onclick="widgetEvCall('handlers.clickPopIndex', event, this);">
+        #1 Best Value of 535 places to stay in Visakhapatnam (Vizag)
+       </div>
+      </div>
+      <div class="prw_rup prw_common_hsx_hd_review_snippets_center_commerce linespace is-shown-at-mobile" data-prwidget-init="handlers" data-prwidget-name="common_hsx_hd_review_snippets_center_commerce">
+       <div class="reviews" style="display:none">
+        <span class="snippet" data-lang="en">
+         <span class="title">
+          “
+          <a class="review-link" data-pos="1" data-reviewid="738584864" href="/ShowUserReviews-g297588-d2420284-r738584864-Novotel_Visakhapatnam_Varun_Beach-Visakhapatnam_Visakhapatnam_District_Andhra_Pr.html#review_738584864" onclick="widgetEvCall('handlers.snippetClick', event, this);" target="_blank" title="The food was good and ￹room service is excellent￻ overall murli from house keeping was good I'd loved the hotel and I loved the sea view from the hotel the swimming pool was amazing and I liked the gym in the sea floor">
+           <span class="extra-snippet">
+            The food was
+           </span>
+           <span class="has-left has-right">
+            good and
+            <span class="highlighted">
+             room service is excellent
+            </span>
+            overall
+           </span>
+           <span class="extra-snippet">
+            murli from house keeping was good I'd loved the hotel and I loved the sea view from the hotel the swimming pool was amazing and I liked the gym in the sea floor
+           </span>
+          </a>
+          ”
+         </span>
+        </span>
+       </div>
+      </div>
+      <div class="prw_rup prw_common_hotel_icons_list linespace is-shown-at-tablet" data-prwidget-init="handlers" data-prwidget-name="common_hotel_icons_list">
+       <ul class="icons_list easyClear vertical">
+        <li class="hotel_icon">
+         <div class="label" data-clicksource="OtherIconLabel" data-clicksourcelabel="Free parking">
+          <span class="ui_icon parking">
+          </span>
+          <span class="text_container">
+           <span class="text">
+            Free parking
+           </span>
+          </span>
+         </div>
+        </li>
+        <li class="hotel_icon">
+         <div class="label" data-clicksource="OtherIconLabel" data-clicksourcelabel="Pool">
+          <span class="ui_icon pool">
+          </span>
+          <span class="text_container">
+           <span class="text">
+            Pool
+           </span>
+          </span>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="react-container component-widget" data-component="@ta/hotels.list-sanitization-icon" data-component-props="page-manifest" id="@ta/hotels.list-sanitization-icon:2420284_component_23">
+       <span class="">
+        <span class="">
+         <div class="_14BJh1QH">
+          <div class="_1ULcQ4O5">
+           <img class="_3LqxbtBM" src="https://static.tacdn.com/img2/icons/handwash-icon.svg"/>
+           <span class="_1shPZD63">
+            Taking safety measures
+           </span>
+          </div>
+         </div>
+        </span>
+       </span>
+      </div>
+      <div class="prw_rup prw_bl_h_special_offer linespace is-shown-at-mobile" data-prwidget-deferred="tablet/tablet" data-prwidget-init="handlers" data-prwidget-name="bl_h_special_offer">
+      </div>
+      <div class="prw_rup prw_common_hotel_icons_list linespace is-shown-at-mobile" data-prwidget-init="handlers" data-prwidget-name="common_hotel_icons_list">
+       <ul class="icons_list easyClear vertical flush">
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="prw_rup prw_hotels_h_price_comparison_message_lt main-column-footer" data-prwidget-init="" data-prwidget-name="hotels_h_price_comparison_message_lt">
+     <div class="message">
+      <a class="label is-hidden-tablet" data-clicksource="PriceMessage" href="#" onclick="return false;">
+       We compared the lowest prices from 10 websites
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="pdWrapper node-preserve ajax_preserve" data-ajax-preserve="2420284" data-location="2420284">
+  </div>
+ </div>
+</div>
